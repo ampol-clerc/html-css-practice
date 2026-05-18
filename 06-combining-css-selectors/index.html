@@ -4,6 +4,33 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Combining CSS Selectors</title>
+    <style>
+      /* Group selector - change the h1 and h2 color to blueviolet */
+      h1,
+      h2 {
+        color: blueviolet;
+      }
+
+      /* Child selector - change the first paragraph color to firebrick */
+      .box > p {
+        color: firebrick;
+      }
+
+      /* Descendent selector - color the list item elements blue */
+      .box li {
+        color: blue;
+      }
+
+      /* Chained specific - to color the 2nd and 3rd list item green */
+      li.done {
+        color: green;
+      }
+
+      /* Multiple Combiners */
+      ul p.done {
+        font-size: 0.5rem;
+      }
+    </style>
   </head>
 
   <body>
