@@ -1,3 +1,4 @@
+/* Red rectangle */
 /* Style flag and positioning for first rectangle */
 .flag {
   background-color: rgb(206, 17, 38);
@@ -7,6 +8,7 @@
   position: relative;
 }
 
+/* Blue rectangle */
 /* Set the second rectangle and add on top */
 div.flag > div {
   background-color: rgb(0, 40, 104);
@@ -15,4 +17,21 @@ div.flag > div {
 
   position: absolute;
   top: 25%;
+}
+
+/* White circle */
+/* Set circle centered in the rectangle */
+.flag div div {
+  background-color: rgb(255, 255, 255);
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+
+  position: relative;
+  top: 50px;
+  left: 350px;
+}
+
+p {
+  margin: 0;
 }
