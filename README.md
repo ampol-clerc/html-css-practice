@@ -10,6 +10,8 @@ Practice projects from Dr. Angela Yu's Full Stack Web Development Bootcamp.
 | 02 | Birthday Invite | img, lists, anchor tags, external links |
 | 03 | HTML Portfolio | semantic structure, relative paths, img, anchor tags |
 | 04 | CSS Selectors | CSS external stylesheet, class, ID, attribute, universal selectors |
+| 05 | CSS Box Model | box model, padding, border, margin, ID selectors |
+| 06 | Combining CSS Selectors | group, child, descendant, chained, multiple combinator selectors |
 
 ## Tools
 - HTML5
