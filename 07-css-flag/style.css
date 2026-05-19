@@ -1,0 +1,18 @@
+/* Style flag and positioning for first rectangle */
+.flag {
+  background-color: rgb(206, 17, 38);
+  height: 600px;
+  width: 900px;
+
+  position: relative;
+}
+
+/* Set the second rectangle and add on top */
+div.flag > div {
+  background-color: rgb(0, 40, 104);
+  height: 300px;
+  width: 100%;
+
+  position: absolute;
+  top: 25%;
+}
