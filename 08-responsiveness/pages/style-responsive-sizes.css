@@ -1,0 +1,40 @@
+/* Concept Responsive Sizes */
+
+body {
+  background-color: gray;
+}
+
+/* Mobile (portrait) : 320px  —  479px */
+@media (max-width: 480px) {
+  body {
+    background-color: lightsalmon;
+  }
+}
+
+/* Mobile (landscape) : 481px - 767px */
+@media (min-width: 481px) and (max-width: 767px) {
+  body {
+    background-color: powderblue;
+  }
+}
+
+/* iPads and Tablets : 768px  —  1024px */
+@media (min-width: 768px) and (max-width: 1024px) {
+  body {
+    background-color: limegreen;
+  }
+}
+
+/* Laptops : 1025px —  1280px */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  body {
+    background-color: brown;
+  }
+}
+
+/* Desktops: 1281px  and + more */
+@media (min-width: 1281px) {
+  body {
+    background-color: aquamarine;
+  }
+}
