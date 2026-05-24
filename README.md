@@ -14,6 +14,7 @@ Practice projects from Dr. Angela Yu's Full Stack Web Development Bootcamp.
 | 06 | Combining CSS Selectors | group, child, descendant, chained, multiple combinator selectors |
 | 07 | CSS Flag | CSS positioning, border-radius, font-size units, text-align, rgb colors |
 | 08 | Responsiveness | flexbox, CSS grid, media queries, responsive breakpoints, fr units |
+| 09 | Web Design Agency | Google Fonts, float layout, object-fit, viewport units, media queries |
 
 ## Tools
 - HTML5
