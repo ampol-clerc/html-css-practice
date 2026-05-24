@@ -13,6 +13,7 @@ Practice projects from Dr. Angela Yu's Full Stack Web Development Bootcamp.
 | 05 | CSS Box Model | box model, padding, border, margin, ID selectors |
 | 06 | Combining CSS Selectors | group, child, descendant, chained, multiple combinator selectors |
 | 07 | CSS Flag | CSS positioning, border-radius, font-size units, text-align, rgb colors |
+| 08 | Responsiveness | flexbox, CSS grid, media queries, responsive breakpoints, fr units |
 
 ## Tools
 - HTML5
