@@ -40,3 +40,21 @@ body {
 .plan-features li {
   margin-bottom: 10px;
 }
+
+.plan-button {
+  background-color: rgb(248, 132, 9);
+  color: rgb(242, 241, 241);
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.plan-button:hover {
+  opacity: 0.8;
+}
+
+.plan-button:active {
+  opacity: 0.4;
+}
