@@ -58,3 +58,10 @@ body {
 .plan-button:active {
   opacity: 0.4;
 }
+
+@media (max-width: 760px) {
+  .pricing-container {
+    flex-direction: column;
+    height: 100%;
+  }
+}
