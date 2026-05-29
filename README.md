@@ -15,6 +15,7 @@ Practice projects from Dr. Angela Yu's Full Stack Web Development Bootcamp.
 | 07 | CSS Flag | CSS positioning, border-radius, font-size units, text-align, rgb colors |
 | 08 | Responsiveness | flexbox, CSS grid, media queries, responsive breakpoints, fr units |
 | 09 | Web Design Agency | Google Fonts, float layout, object-fit, viewport units, responsive layout |
+| 10 | Pricing Table | flexbox centering, flexible card sizing, hover/active states, responsive column layout |
 
 ## Tools
 - HTML5
