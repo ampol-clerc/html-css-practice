@@ -13,10 +13,20 @@ body {
 /* Auto Size - a little bit of responsiveness */
 /* rows - auto - fit content */
 /* columns - auto (extensible) - 100% of the width */
-.grid-container {
+/* .grid-container {
   display: grid;
   grid-template-rows: 100px auto;
   grid-template-columns: 200px auto;
+  gap: 10px;
+} */
+
+/* Fractional Size - ratios for sizes */
+/* first row to be half size of second row - 1fr 2fr */
+/* fractional unit = fr */
+.grid-container {
+  display: grid;
+  grid-template-rows: 1fr 2fr;
+  grid-template-columns: 1fr 2fr;
   gap: 10px;
 }
 
