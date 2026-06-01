@@ -23,10 +23,22 @@ body {
 /* Fractional Size - ratios for sizes */
 /* first row to be half size of second row - 1fr 2fr */
 /* fractional unit = fr */
-.grid-container {
+/* .grid-container {
   display: grid;
   grid-template-rows: 1fr 2fr;
   grid-template-columns: 1fr 2fr;
+  gap: 10px;
+} */
+
+/* Minmax Size - grid responsive especially on the horizontal */
+/* function - minmax() */
+/* we don't want it to be too narrow or too wide like an image 
+because it might change the scaling */
+/* limiting the size of columns inside grid */
+.grid-container {
+  display: grid;
+  grid-template-rows: 200px 400px;
+  grid-template-columns: 200px minmax(400px, 800px);
   gap: 10px;
 }
 
