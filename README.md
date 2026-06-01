@@ -6,9 +6,9 @@ Practice projects from Dr. Angela Yu's Full Stack Web Development Bootcamp.
 
 | # | Project | Topics |
 |---|---------|--------|
-| 01 | Movies Ranking | HTML structure, headings, paragraph, hr |
-| 02 | Birthday Invite | img, lists, anchor tags, external links |
-| 03 | HTML Portfolio | semantic structure, relative paths, img, anchor tags |
+| 01 | Movies Ranking | HTML structuring content with headings, dividing sections visually |
+| 02 | Birthday Invite | embedding images, building lists, linking to external pages safely |
+| 03 | HTML Portfolio | building a portfolio page, linking projects with relative paths, safe external links |
 | 04 | CSS Selectors | targeting elements by tag, class, ID, attribute, universal |
 | 05 | CSS Box Model | box model layers, spacing with padding and margin, ID-based styling |
 | 06 | Combining CSS Selectors | group, child, descendant, chained, multiple combinator selectors |
