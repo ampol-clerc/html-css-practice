@@ -17,6 +17,7 @@ body {
   gap: 9px;
 }
 
+/* Default blocks item by color white */
 .item {
   background-color: rgb(240, 241, 236);
 }
@@ -26,11 +27,17 @@ body {
 }
 
 .white1 {
-  grid-column: span 3;
+  /* grid-column: span 3; */
+
+  grid-column-start: 2;
+  grid-column-end: 5;
 }
 
 .white2 {
-  grid-row: span 2;
+  /* grid-row: span 2; */
+
+  grid-row-start: 2;
+  grid-row-end: 4;
 }
 
 .white3 {
