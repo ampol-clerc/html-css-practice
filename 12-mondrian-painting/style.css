@@ -20,3 +20,24 @@ body {
 .item {
   background-color: rgb(240, 241, 236);
 }
+
+.red {
+  background-color: rgb(220, 3, 3);
+}
+
+.white1 {
+  grid-column: span 3;
+}
+
+.white2 {
+  grid-row: span 2;
+}
+
+.white3 {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 4;
+
+  /* grid-area: 2 / 2 / 4 / 4; */
+}
