@@ -99,25 +99,18 @@ body {
 
 .yellow3 {
   background-color: rgb(235, 194, 76);
-
-  grid-row-start: 5;
-  grid-row-end: 8;
+  grid-row: 5 / 8;
 }
 
 .white10 {
   background-color: rgb(214, 215, 210);
-
-  grid-column-start: 2;
-  grid-column-end: 4;
-  grid-row-start: 6;
-  grid-row-end: 8;
+  grid-column: 2 / 4;
+  grid-row: 6 / 8;
 }
 
 .white11 {
-  grid-column-start: 4;
-  grid-column-end: 5;
-  grid-row-start: 5;
-  grid-row-end: 6;
+  grid-column: 4 / 5;
+  grid-row: 5 / 6;
 }
 
 .black2 {
@@ -127,10 +120,8 @@ body {
 .blue {
   background-color: rgb(3, 62, 115);
 
-  grid-column-start: 5;
-  grid-column-end: 7;
-  grid-row-start: 5;
-  grid-row-end: 7;
+  grid-column: 5 / 7;
+  grid-row: 5 / 7;
 }
 
 .red2 {
