@@ -21,3 +21,29 @@ body {
   grid-template-columns: 100px 100px 100px 200px 100px 100px 50px;
   grid-template-rows: 100px 200px 200px 100px 100px 50px 50px;
 }
+
+.white1 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.white2 {
+  background-color: rgb(214, 215, 210);
+
+  grid-column-start: 3;
+  grid-column-end: 5;
+}
+
+.yellow1 {
+  background-color: rgb(235, 194, 76);
+
+  grid-column-start: 5;
+  grid-column-end: 7;
+}
+
+.white3 {
+  grid-column-start: 7;
+  grid-column-end: -1;
+  grid-row-start: 1;
+  grid-row-end: 5;
+}
