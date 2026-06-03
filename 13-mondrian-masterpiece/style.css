@@ -73,3 +73,26 @@ body {
   grid-column: 5 / 7;
   grid-row: 2 / 3;
 }
+
+.white5 {
+  grid-row: 3 / 5;
+}
+
+.black1 {
+  background-color: rgb(8, 9, 4);
+  grid-column: 2 / 4;
+  grid-row: 4 / 6;
+}
+
+.white6 {
+  background-color: rgb(214, 215, 210);
+}
+
+.white7 {
+  background-color: rgb(214, 215, 210);
+}
+
+.white9 {
+  background-color: rgb(214, 215, 210);
+  grid-column: 5 / 7;
+}
