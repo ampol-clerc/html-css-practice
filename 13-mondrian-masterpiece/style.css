@@ -14,10 +14,10 @@ body {
 
 .container {
   display: grid;
-  height: 854px;
-  width: 804px;
+  height: 890px;
+  width: 840px;
   background-color: black;
-  gap: 9px;
+  gap: 15px;
   grid-template-columns: 100px 100px 100px 200px 100px 100px 50px;
   grid-template-rows: 100px 200px 200px 100px 100px 50px 50px;
 }
