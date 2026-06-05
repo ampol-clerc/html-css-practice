@@ -18,6 +18,7 @@ Practice projects from Dr. Angela Yu's Full Stack Web Development Bootcamp.
 | 10 | Pricing Table | flexbox centering, flexible card sizing, hover/active states, responsive column layout |
 | 11 | Grid Sizing | fixed vs fluid grid columns, fractional sizing, column constraints with minmax, repeating grid patterns |
 | 12 | Mondrian Painting | placing items with grid line positioning, spanning cells across rows and columns, recreating a layout from a design reference |
+| 13 | Mondrian Masterpiece | advanced grid line positioning, negative line index, grid shorthand, recreating a complex painting from reference |
 
 ## Tools
 - HTML5
