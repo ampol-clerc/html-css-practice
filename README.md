@@ -19,6 +19,7 @@ Practice projects from Dr. Angela Yu's Full Stack Web Development Bootcamp.
 | 11 | Grid Sizing | fixed vs fluid grid columns, fractional sizing, column constraints with minmax, repeating grid patterns |
 | 12 | Mondrian Painting | placing items with grid line positioning, spanning cells across rows and columns, recreating a layout from a design reference |
 | 13 | Mondrian Masterpiece | advanced grid line positioning, negative line index, grid shorthand, recreating a complex painting from reference |
+| 14 | Bootstrap Components | Bootstrap CDN setup, responsive navbar with collapsible menu, Bootstrap grid layout, image carousel with indicators, Bootstrap utility classes, SVG icon integration |
 
 ## Tools
 - HTML5
