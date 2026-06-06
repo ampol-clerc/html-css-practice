@@ -24,4 +24,5 @@ Practice projects from Dr. Angela Yu's Full Stack Web Development Bootcamp.
 ## Tools
 - HTML5
 - CSS3
+- Bootstrap 5
 - VS Code
