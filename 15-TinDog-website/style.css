@@ -1,3 +1,37 @@
-body {
-  background-color: antiquewhite;
+/* Header area background */
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Custom css - Navbar */
+.nav-link {
+  color: white;
+}
+
+.nav-item > .nav-link:hover {
+  color: black;
+}
+
+.h1-font-size {
+  font-size: 2.3rem;
+}
+
+/* Download btn size */
+.download-btn {
+  padding: 6x 16px;
+  font-size: 0.9rem;
 }
