@@ -48,3 +48,8 @@
   height: 100px;
   border-radius: 50%;
 }
+
+/* h5 pricing size */
+.card-body > h5 {
+  font-size: 2.4rem;
+}
