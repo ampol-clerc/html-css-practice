@@ -11,8 +11,8 @@ Practice projects from Dr. Angela Yu's Full Stack Web Development Bootcamp.
 | 03 | HTML Portfolio | building a portfolio page, linking projects with relative paths, safe external links |
 | 04 | CSS Selectors | targeting elements by tag, class, ID, attribute, universal |
 | 05 | CSS Box Model | box model layers, spacing with padding and margin, ID-based styling |
-| 06 | Combining CSS Selectors | group, child, descendant, chained, multiple combinator selectors |
-| 07 | CSS Flag | CSS positioning,b order-radius, font-size units, text-align, rgb colors |
+| 06 | Combining CSS Selectors | styling elements based on their relationship and position in the DOM |
+| 07 | CSS Flag | CSS positioning, border-radius, font-size units, text-align, rgb colors |
 | 08 | Responsiveness | flexbox, CSS grid, media queries, responsive breakpoints, fr units |
 | 09 | Web Design Agency | Google Fonts, float layout, object-fit, viewport units, responsive layout |
 | 10 | Pricing Table | flexbox centering, flexible card sizing, hover/active states, responsive column layout |
