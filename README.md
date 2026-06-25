@@ -20,6 +20,7 @@ Practice projects from Dr. Angela Yu's Full Stack Web Development Bootcamp.
 | 12 | Mondrian Painting | placing items with grid line positioning, spanning cells across rows and columns, recreating a layout from a design reference |
 | 13 | Mondrian Masterpiece | advanced grid line positioning, negative line index, grid shorthand, recreating a complex painting from reference |
 | 14 | Bootstrap Components | Bootstrap CDN setup, responsive navbar with collapsible menu, Bootstrap grid layout, image carousel with indicators, Bootstrap utility classes, SVG icon integration |
+| 15 | TinDog Website | building a multi-section landing page, animated gradient background, inline SVG icons, Bootstrap cards for pricing, overriding Bootstrap with custom CSS, responsive hero with reversed column order |
 
 ## Tools
 - HTML5
